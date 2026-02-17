@@ -18,13 +18,14 @@ This module implements a rule-based clinical classification system that evaluate
 <img width="800" height="667" alt="image" src="https://github.com/user-attachments/assets/eba1c9fb-9121-4e37-85c5-e003a4edb679" />
 
 <img width="645" height="453" alt="image" src="https://github.com/user-attachments/assets/22d9e3c0-4842-4a6f-9997-cb9e76774c97" />
-## Tech Stack
 
+## Tech Stack
 - Python  
 - OpenCV  
 - Dlib / Facial Landmark Detection  
 - NumPy  
 - File-based report generation  
+
 
 
 
