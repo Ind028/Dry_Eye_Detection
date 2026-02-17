@@ -1,7 +1,7 @@
 # Blink-Counter
 Eye blink counter using OpenCV.
 
-![Blink](https://github.com/masanbasa3k/Blink-Counter/assets/66223190/7990347f-f02f-4644-be9d-980c7a93369a)
+
 
 
 # Explanation
@@ -14,3 +14,4 @@ Next, I implemented an algorithm to track the movement and changes in the eyes o
 The program keeps a count of the number of blinks that happen during the video or webcam session. This blink count can be used for various purposes, such as monitoring drowsiness levels in drivers or studying eye behavior in different situations.
 
 Overall, using OpenCV and computer vision techniques, I successfully developed an eye blink counter that can accurately track and count the number of blinks in a video or through a webcam feed.
+
