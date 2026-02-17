@@ -1,6 +1,7 @@
 # Blink-Counter
 Eye blink counter using OpenCV.
 
+![Blink](https://github.com/masanbasa3k/Blink-Counter/assets/66223190/7990347f-f02f-4644-be9d-980c7a93369a)
 
 
 
